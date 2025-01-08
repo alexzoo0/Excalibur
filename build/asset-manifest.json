@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Excalibur/static/css/main.06b05248.css",
+    "main.js": "/Excalibur/static/js/main.4dda0281.js",
+    "static/js/872.f47cb6dc.chunk.js": "/Excalibur/static/js/872.f47cb6dc.chunk.js",
+    "static/js/227.ec74453f.chunk.js": "/Excalibur/static/js/227.ec74453f.chunk.js",
+    "static/js/526.ce49754d.chunk.js": "/Excalibur/static/js/526.ce49754d.chunk.js",
+    "static/js/232.55693cba.chunk.js": "/Excalibur/static/js/232.55693cba.chunk.js",
+    "static/js/854.87f7c77a.chunk.js": "/Excalibur/static/js/854.87f7c77a.chunk.js",
+    "static/js/237.71bff431.chunk.js": "/Excalibur/static/js/237.71bff431.chunk.js",
+    "static/js/357.dce12c4a.chunk.js": "/Excalibur/static/js/357.dce12c4a.chunk.js",
+    "static/js/753.4da521ab.chunk.js": "/Excalibur/static/js/753.4da521ab.chunk.js",
+    "static/media/shop.png": "/Excalibur/static/media/shop.486eb375a6d8e57b13d8.png",
+    "static/media/home.png": "/Excalibur/static/media/home.f40b9a60eb0a5482f66d.png",
+    "static/media/excaliburLogo.png": "/Excalibur/static/media/excaliburLogo.158788170ec999f5e685.png",
+    "static/media/Heavitas.ttf": "/Excalibur/static/media/Heavitas.5c1338969ac9e05855a4.ttf",
+    "static/media/Dealerplate.ttf": "/Excalibur/static/media/Dealerplate.f5d8bee158fcbd10ca24.ttf",
+    "static/media/titlebg.svg": "/Excalibur/static/media/titlebg.8889e59a1ee3d237170e882cd5414d7b.svg",
+    "static/media/blob.svg": "/Excalibur/static/media/blob.f199d269f11ece2e1261.svg",
+    "index.html": "/Excalibur/index.html",
+    "main.06b05248.css.map": "/Excalibur/static/css/main.06b05248.css.map",
+    "main.4dda0281.js.map": "/Excalibur/static/js/main.4dda0281.js.map",
+    "872.f47cb6dc.chunk.js.map": "/Excalibur/static/js/872.f47cb6dc.chunk.js.map",
+    "227.ec74453f.chunk.js.map": "/Excalibur/static/js/227.ec74453f.chunk.js.map",
+    "526.ce49754d.chunk.js.map": "/Excalibur/static/js/526.ce49754d.chunk.js.map",
+    "232.55693cba.chunk.js.map": "/Excalibur/static/js/232.55693cba.chunk.js.map",
+    "854.87f7c77a.chunk.js.map": "/Excalibur/static/js/854.87f7c77a.chunk.js.map",
+    "237.71bff431.chunk.js.map": "/Excalibur/static/js/237.71bff431.chunk.js.map",
+    "357.dce12c4a.chunk.js.map": "/Excalibur/static/js/357.dce12c4a.chunk.js.map",
+    "753.4da521ab.chunk.js.map": "/Excalibur/static/js/753.4da521ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06b05248.css",
+    "static/js/main.4dda0281.js"
+  ]
+}
